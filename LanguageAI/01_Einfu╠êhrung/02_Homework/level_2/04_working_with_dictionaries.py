@@ -22,7 +22,7 @@ sample_dictionary_key_num = len(sample_dictionary.keys())
 
 sample_dictionary[1] = 5.5
 sample_dictionary[2] = [1, 2, 3]
-sample_dictionary[5] = {1: 2}
+sample_dictionary[5] = {1: 2, 3: 4}
 
 print(sample_dictionary)
 
