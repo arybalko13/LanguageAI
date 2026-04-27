@@ -18,6 +18,9 @@ target_text = """Python - интерпретируемый, высокоуров
 # also, um wieviel Prozent der zweite String länger ist, als der erste.
 # Auch hier gilt: Verwenden Sie nur die Mittel, die im ersten Modul behandelt wurden!
 
-difference = 0
+print(len(source_text))
+print(len(target_text))
+
+difference = (361-324)/(324/100)
 
 print(difference)
